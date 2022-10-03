@@ -1,0 +1,26 @@
+<!--
+body {
+    background-image: url("Menu1.jpg");
+    background-color: aqua;
+    }
+h1{
+    color: darkgreen;
+}
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+    background-color: aquamarine;
+    padding: 50px;
+    border: 2px solid black;
+}
+#food_01 {
+    width: 400px;
+}
+#food_02 {
+    width: 400px;
+}
+#spanID {
+    font-size: 18px;
+    margin: 50px;
+}
+-->
